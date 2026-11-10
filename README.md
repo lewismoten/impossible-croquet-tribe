@@ -1,3 +1,5 @@
+![impossible-croquet-tribe: Unity and HTC Vive experiment from 2016](docs/images/social-preview.png)
+
 # impossible-croquet-tribe
 An experiment with Unity and the HTC Vive Headset
 
